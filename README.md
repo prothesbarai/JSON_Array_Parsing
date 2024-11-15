@@ -21,7 +21,7 @@ implementation on your project
 
 #### Step 2 : ---------------------------- [ When Parsing With Static Index Number ]
 
-```bash
+```java
     JsonArrayRequest jsonArrayRequest =new JsonArrayRequest(Request.Method.GET, url, null, new Response.Listener<JSONArray>() {
             @Override
             public void onResponse(JSONArray response) {
@@ -53,7 +53,7 @@ implementation on your project
 
 #### Step 2 : ---------------------------- [ When Parsing With Dynamic Index Number With For Loop]
 
-```bash
+```java
     JsonArrayRequest jsonArrayRequest =new JsonArrayRequest(Request.Method.GET, url, null, new Response.Listener<JSONArray>() {
             @Override
             public void onResponse(JSONArray response) {
