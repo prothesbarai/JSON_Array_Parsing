@@ -1,14 +1,14 @@
 [
   {
-    "name" : "Prothes",
-    "email" : "@gmail.com",
-    "password" : "password"
+    "tvlogo" : "Prothes",
+    "iptvlink" : "@gmail.com",
+    "tvname" : "password"
   },
 
   {
-    "name" : "Prothes",
-    "email" : "@gmail.com",
-    "password" : "password"
+    "tvlogo" : "Prothes",
+    "iptvlink" : "@gmail.com",
+    "tvname" : "password"
   }
   
 ]
