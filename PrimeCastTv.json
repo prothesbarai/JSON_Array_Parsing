@@ -41,20 +41,27 @@
     "tvname" : "A Music Tv"
   },
   {
-    "tvlogo" : "4",
-    "iptvlink" : "https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8",
-    "tvname" : "--"
-  },
-  {
     "tvlogo" : "https://yt3.googleusercontent.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM=s900-c-k-c0x00ffffff-no-rj",
     "iptvlink" : "https://live1.mediadesk.al/cnatvlive.m3u8",
     "tvname" : "CNA"
   },
   {
-    "tvlogo" : "17",
+    "tvlogo" : "https://play-lh.googleusercontent.com/gmWipAJmtIoQX0sbEocEe9bwp3FMsLBqVvnpr1pJ0I_El_euPBwDl7eM2T-NHEVFgXI",
     "iptvlink" : "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
-    "tvname" : "17"
+    "tvname" : "News 24 HD"
+  },
+  {
+    "tvlogo" : "37",
+    "iptvlink" : "https://videos.rtva.ad/live/rtva/playlist.m3u8",
+    "tvname" : "37"
+  },
+  {
+    "tvlogo" : "53",
+    "iptvlink" : "https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8",
+    "tvname" : "53"
   }
+  
+  
 
 
   
