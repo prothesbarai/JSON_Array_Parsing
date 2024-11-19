@@ -52,9 +52,15 @@
   },
   {
     "tvlogo" : "37",
-    "iptvlink" : "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
-    "tvname" : "ABC"
+    "iptvlink" : "http://iptv.rtv-ooe.at/stream.m3u8",
+    "tvname" : "RTV"
+  },
+  {
+    "tvlogo" : "37",
+    "iptvlink" : "https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8",
+    "tvname" : "BBC"
   }
+  
   
   
 
