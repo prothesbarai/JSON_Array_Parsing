@@ -51,15 +51,21 @@
     "tvname" : "News 24 HD"
   },
   {
-    "tvlogo" : "37",
+    "tvlogo" : "https://play-lh.googleusercontent.com/aKs0o55UoBMaacPJTE2i_AS9VuxR2y_WdsrIZtC3n3qR-iAMhP-XKwXFx_RUEqiNv7s",
     "iptvlink" : "http://iptv.rtv-ooe.at/stream.m3u8",
-    "tvname" : "RTV"
+    "tvname" : "RTV English"
   },
   {
     "tvlogo" : "37",
-    "iptvlink" : "https://vs-hls-push-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8",
-    "tvname" : "BBC"
+    "iptvlink" : "https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8",
+    "tvname" : "CNN International"
+  },
+  {
+    "tvlogo" : "37",
+    "iptvlink" : "https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8",
+    "tvname" : "CNN"
   }
+  
   
   
   
