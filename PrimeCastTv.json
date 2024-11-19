@@ -19,5 +19,10 @@
     "tvlogo" : "https://yt3.googleusercontent.com/yGbA7wHYbj_KXDN4Q7IP4P8ADErUQX6SYJotTN35Kjes6ufM7Kua15xVqzCfq_IEfz8nAlr3=s900-c-k-c0x00ffffff-no-rj",
     "iptvlink" : "https://live-cdn.tsports.com/live-02/index.m3u8",
     "tvname" : "T-Sports 2"
+  },
+  {
+    "tvlogo" : "https://images.toffeelive.com/images/program/4388/logo/240x240/mobile_logo_422191001674119624.png",
+    "iptvlink" : "https://bldcmprod-cdn.toffeelive.com/cdn/live/euro_sports_hd/playlist.m3u8",
+    "tvname" : "Euro Sport HD"
   }
 ]
