@@ -34,7 +34,18 @@
     "tvlogo" : "ii",
     "iptvlink" : "https://idvd.multitvsolution.com/idvo/moviehouse.m3u8",
     "tvname" : "--"
+  },
+  {
+    "tvlogo" : "ii",
+    "iptvlink" : "https://list.iptvcat.com/my_list/s/5b91bab83b95a5f0c82f49084fae1200.m3u8",
+    "tvname" : "--"
+  },
+  {
+    "tvlogo" : "ii",
+    "iptvlink" : "https://list.iptvcat.com/my_list/s/c5db599604e1db7c8517ee6a4552e000.m3u8",
+    "tvname" : "--"
   }
+
 
 
   
