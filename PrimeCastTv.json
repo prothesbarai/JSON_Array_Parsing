@@ -52,13 +52,8 @@
   },
   {
     "tvlogo" : "37",
-    "iptvlink" : "https://videos.rtva.ad/live/rtva/playlist.m3u8",
-    "tvname" : "37"
-  },
-  {
-    "tvlogo" : "53",
-    "iptvlink" : "https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8",
-    "tvname" : "53"
+    "iptvlink" : "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+    "tvname" : "ABC"
   }
   
   
