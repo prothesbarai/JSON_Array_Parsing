@@ -56,20 +56,53 @@
     "tvname" : "RTV English"
   },
   {
-    "tvlogo" : "37",
-    "iptvlink" : "http://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8",
-    "tvname" : "ERT"
+    "tvlogo" : "3",
+    "iptvlink" : "https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8",
+    "tvname" : "3"
   },
   {
-    "tvlogo" : "37",
-    "iptvlink" : "http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2medium.m3u8",
-    "tvname" : "ERT2"
+    "tvlogo" : "7",
+    "iptvlink" : "http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8",
+    "tvname" : "7"
   },
   {
-    "tvlogo" : "37",
-    "iptvlink" : "http://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3medium.m3u8",
-    "tvname" : "ERT2"
+    "tvlogo" : "9",
+    "iptvlink" : "https://tv.unisc.br/hls/test.m3u8",
+    "tvname" : "9"
+  },
+  {
+    "tvlogo" : "11",
+    "iptvlink" : "http://rbc.directradios.com:1935/rbc/rbc/live.m3u8",
+    "tvname" : "11"
+  },
+  {
+    "tvlogo" : "13",
+    "iptvlink" : "https://stmv1.srvif.com/animetv/animetv/playlist.m3u8",
+    "tvname" : "13"
+  },
+  {
+    "tvlogo" : "17",
+    "iptvlink" : "https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8",
+    "tvname" : "17"
+  },
+  {
+    "tvlogo" : "19",
+    "iptvlink" : "https://video01.logicahost.com.br/redebrasil02/redebrasil02/playlist.m3u8",
+    "tvname" : "19"
+  },
+  {
+    "tvlogo" : "21",
+    "iptvlink" : "https://stream3.camara.gov.br/tv1/manifest.m3u8",
+    "tvname" : "21"
+  },
+  {
+    "tvlogo" : "23",
+    "iptvlink" : "http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8",
+    "tvname" : "23"
   }
+  
+  
+  
   
   
   
