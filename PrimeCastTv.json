@@ -32,22 +32,7 @@
   },
   {
     "tvlogo" : "ii",
-    "iptvlink" : "https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-    "tvname" : "--"
-  },
-  {
-    "tvlogo" : "ii1",
-    "iptvlink" : "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002616/LIV01UEFA/master_mdh.m3u8",
-    "tvname" : "--"
-  },
-  {
-    "tvlogo" : "ii2",
-    "iptvlink" : "https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8",
-    "tvname" : "--"
-  },
-  {
-    "tvlogo" : "ii3",
-    "iptvlink" : "https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8",
+    "iptvlink" : "https://live.tsports.com/live/live_01_480/index.m3u8",
     "tvname" : "--"
   }
 
