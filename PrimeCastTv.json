@@ -31,19 +31,14 @@
     "tvname" : "Sony Liv 2"
   },
   {
-    "tvlogo" : "1",
+    "tvlogo" : "https://yt3.googleusercontent.com/ytc/AIdro_lqyV9-L0y-PsR60XLBpbPir3S8VppDNWNEVqjl5OUPxbU=s900-c-k-c0x00ffffff-no-rj",
     "iptvlink" : "https://fe.tring.al/delta/105/out/u/1200_1.m3u8",
-    "tvname" : "--"
+    "tvname" : "Kanali 7"
   },
   {
-    "tvlogo" : "2",
-    "iptvlink" : "https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8",
-    "tvname" : "--"
-  },
-  {
-    "tvlogo" : "3",
+    "tvlogo" : "https://play-lh.googleusercontent.com/PPVTRlbMNVLqQBOYFrjox16LpDjIWuEV7N9wBEMONNITMfMMZE6m8O1m8jsyIuJ6dWE=w240-h480-rw",
     "iptvlink" : "https://albportal.net/albkanalemusic.m3u8",
-    "tvname" : "--"
+    "tvname" : "A Music Tv"
   },
   {
     "tvlogo" : "4",
@@ -51,14 +46,14 @@
     "tvname" : "--"
   },
   {
-    "tvlogo" : "5",
+    "tvlogo" : "https://yt3.googleusercontent.com/ytc/AIdro_n00DzE39o-4IFJ07IP3gG__TMqKxXXbwYaARinwTXTDFM=s900-c-k-c0x00ffffff-no-rj",
     "iptvlink" : "https://live1.mediadesk.al/cnatvlive.m3u8",
-    "tvname" : "--"
+    "tvname" : "CNA"
   },
   {
-    "tvlogo" : "15",
-    "iptvlink" : "https://www.youtube.com/@EuronewsAlbania/live",
-    "tvname" : "--"
+    "tvlogo" : "17",
+    "iptvlink" : "https://tv.balkanweb.com/news24/livestream/playlist.m3u8",
+    "tvname" : "17"
   }
 
 
