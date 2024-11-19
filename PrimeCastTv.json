@@ -32,9 +32,15 @@
   },
   {
     "tvlogo" : "ii",
-    "iptvlink" : "https://live.tsports.com/live/live_01_480/index.m3u8",
+    "iptvlink" : "http://103.191.240.87:80/nazmul/nazmul/311.m3u8",
+    "tvname" : "--"
+  },
+  {
+    "tvlogo" : "i",
+    "iptvlink" : "http://103.191.240.87:80/nazmul/nazmul/158.m3u8",
     "tvname" : "--"
   }
+
 
   
   
