@@ -1,5 +1,3 @@
-
-
 # JSON Array Parsing
 
 JSON Array Parsing With Volley Library
